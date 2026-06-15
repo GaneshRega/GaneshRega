@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @GaneshRega
-- 👀 I’m interested in Designigng 
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Ganesh Rega
 
-<!---
-GaneshRega/GaneshRega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 UI/UX Designer with 3+ years of experience
+💻 Building web applications and digital products
+🌱 Currently learning React, AI Tools & Product Design
+🤝 Open to collaborations on UI/UX, Web Development & Community Projects
+📫 Reach me: ganeshrega6@gmail.com
+⚡ Fun Fact: Won 2nd place in a React Hyderabad Buildathon
